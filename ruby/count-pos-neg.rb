@@ -1,3 +1,4 @@
+# https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives
 def count_positives_sum_negatives(numbers)
   count = 0
   sum = 0
